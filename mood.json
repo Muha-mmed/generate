@@ -1,0 +1,10 @@
+{
+    "happy" : {
+        "quotes" : [ "you deserve to be happy", "be happy"],
+        "songs": ["one love - Bob Marley", "love all - NF"]
+    },
+    "sad" : {
+        "quotes" : [ "you deserve to be happy", "be happy","every little thing is going to be alright"],
+        "songs": ["higher - John Doe", "love all - NF"]
+    }
+}
