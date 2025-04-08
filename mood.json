@@ -1,10 +1,62 @@
 {
-    "happy" : {
-        "quotes" : [ "you deserve to be happy", "be happy"],
-        "songs": ["one love - Bob Marley", "love all - NF"]
-    },
-    "sad" : {
-        "quotes" : [ "you deserve to be happy", "be happy","every little thing is going to be alright"],
-        "songs": ["higher - John Doe", "love all - NF"]
-    }
+  "happy": {
+    "quotes": [
+      "Happiness is not something ready made. It comes from your own actions. – Dalai Lama",
+      "The purpose of our lives is to be happy. – Dalai Lama",
+      "Happiness is only real when shared. – Christopher McCandless"
+    ],
+    "songs": [
+      "Happy – Pharrell Williams",
+      "Walking on Sunshine – Katrina & The Waves",
+      "Best Day of My Life – American Authors"
+    ]
+  },
+  "sad": {
+    "quotes": [
+      "Tears come from the heart and not from the brain. – Leonardo da Vinci",
+      "The word 'happy' would lose its meaning if it were not balanced by sadness. – Carl Jung",
+      "Every human walks around with a certain kind of sadness. – Brad Pitt"
+    ],
+    "songs": [
+      "Someone Like You – Adele",
+      "Fix You – Coldplay",
+      "Let Her Go – Passenger"
+    ]
+  },
+  "motivated": {
+    "quotes": [
+      "Don’t watch the clock; do what it does. Keep going. – Sam Levenson",
+      "The future depends on what you do today. – Mahatma Gandhi",
+      "Believe you can and you're halfway there. – Theodore Roosevelt"
+    ],
+    "songs": [
+      "Eye of the Tiger – Survivor",
+      "Stronger – Kanye West",
+      "Lose Yourself – Eminem"
+    ]
+  },
+  "angry": {
+    "quotes": [
+      "For every minute you are angry, you lose sixty seconds of happiness. – Ralph Waldo Emerson",
+      "Speak when you are angry and you will make the best speech you will ever regret. – Ambrose Bierce",
+      "Anger is an acid that can do more harm to the vessel in which it is stored. – Mark Twain"
+    ],
+    "songs": [
+      "Break Stuff – Limp Bizkit",
+      "Killing in the Name – Rage Against the Machine",
+      "In the End – Linkin Park"
+    ]
+  },
+  "romantic": {
+    "quotes": [
+      "You know you're in love when you can't fall asleep because reality is finally better than your dreams. – Dr. Seuss",
+      "I would rather spend one lifetime with you than face all the ages of this world alone. – J.R.R. Tolkien",
+      "Love is composed of a single soul inhabiting two bodies. – Aristotle"
+    ],
+    "songs": [
+      "Perfect – Ed Sheeran",
+      "All of Me – John Legend",
+      "Can’t Help Falling in Love – Elvis Presley"
+    ]
+  }
 }
