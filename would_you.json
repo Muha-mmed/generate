@@ -1,23 +1,58 @@
 {
-    "fun": [
-        "would you rather be a joke or comedy",
-        "would you rather be a ship or fish",
-        "would you rather be a bull or me",
-        "would you rather be a stupid or crazy",
-        "would you rather be a jk or hope",
-        "would you rather be a nani or dembele"
-    ],
-    "life": [
-        "would you rather be a joke or comedy",
-        "would you rather be a jk or hope",
-        "would you rather be a ship or fish",
-        "would you rather be a bull or me",
-        "would you rather be a stupid or crazy",
-        "would you rather be a nani or dembele"
-    ],
-    "school": [
-        "would you rather be a ship or fish",
-        "would you rather be a bull or me",
-        "would you rather be a stupid or crazy"
-    ]
+  "fun": [
+    "Would you rather always have to sing instead of speak or dance everywhere you walk?",
+    "Would you rather fight one horse-sized duck or a hundred duck-sized horses?",
+    "Would you rather have unlimited pizza or unlimited ice cream for life?",
+    "Would you rather be able to fly but only as fast as you walk, or run 100 mph but can't stop suddenly?",
+    "Would you rather always win at rock-paper-scissors or always guess the exact time without a clock?",
+    "Would you rather have a rewind button or a pause button in your life?"
+  ],
+  "life": [
+    "Would you rather know the date of your death or the cause of your death?",
+    "Would you rather be rich and alone or broke and surrounded by love?",
+    "Would you rather live in the past with your loved ones or in the future with new tech?",
+    "Would you rather always have good luck or always make good decisions?",
+    "Would you rather lose all your memories or never be able to make new ones?",
+    "Would you rather be famous but hated or unknown and loved?"
+  ],
+  "school": [
+    "Would you rather have no homework forever or never take a test again?",
+    "Would you rather always be 10 minutes late to class or 20 minutes early?",
+    "Would you rather have a teacher that’s super strict but you learn a lot, or super chill but you learn nothing?",
+    "Would you rather get an A on every test without studying or learn everything but still get B’s?",
+    "Would you rather have summer break all year but never graduate, or finish school tomorrow but start working right away?",
+    "Would you rather have lunch with your favorite teacher or a famous person for one hour?"
+  ],
+  "relationships": [
+    "Would you rather be in a relationship where you’re always laughing or always learning?",
+    "Would you rather date someone who’s super attractive but boring or average looking but incredibly interesting?",
+    "Would you rather fall in love once for a lifetime or have many great loves?",
+    "Would you rather your partner always knows what you're thinking or never understands your thoughts?",
+    "Would you rather be ghosted after the best date ever or have a super awkward date with someone who texts you forever?",
+    "Would you rather have a long-distance relationship with total trust or live close but always feel unsure?"
+  ],
+  "technology": [
+    "Would you rather lose your phone for a month or lose internet access for a week?",
+    "Would you rather have the newest tech forever or never have to charge your devices again?",
+    "Would you rather live in a world with no social media or no streaming platforms?",
+    "Would you rather be able to time travel once or download any skill instantly like in The Matrix?",
+    "Would you rather get hacked once a year or have slow internet forever?",
+    "Would you rather always get targeted ads that are eerily accurate or random ones that make no sense?"
+  ],
+  "deep": [
+    "Would you rather search for meaning your whole life or accept the mystery?",
+    "Would you rather be remembered by millions or cherished by a few?",
+    "Would you rather feel everything deeply or feel nothing at all?",
+    "Would you rather live a short, impactful life or a long, quiet one?",
+    "Would you rather know the truth and be sad or stay blissfully unaware?",
+    "Would you rather erase your biggest regret or guarantee future peace?"
+  ],
+  "dark_humor": [
+    "Would you rather haunt your ex or your high school principal?",
+    "Would you rather be stuck in a horror movie or a reality TV show forever?",
+    "Would you rather always hear spooky whispers at night or see shadows move from the corner of your eye?",
+    "Would you rather come back as a friendly ghost or a grumpy cat?",
+    "Would you rather get abducted by aliens or sit through a never-ending Zoom call?",
+    "Would you rather laugh at a funeral or cry at a wedding (and can't stop either way)?"
+  ]
 }
